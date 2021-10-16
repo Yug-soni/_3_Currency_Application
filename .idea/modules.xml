@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/_3_Currency_Application.iml" filepath="$PROJECT_DIR$/.idea/_3_Currency_Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Api_Gateway/api-gateway.iml" filepath="$PROJECT_DIR$/Api_Gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Currency_Conversion_Service/currency-conversion-service.iml" filepath="$PROJECT_DIR$/Currency_Conversion_Service/currency-conversion-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Currency_Exchange_Service/currency-exchange-service.iml" filepath="$PROJECT_DIR$/Currency_Exchange_Service/currency-exchange-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Naming_Server/naming-server.iml" filepath="$PROJECT_DIR$/Naming_Server/naming-server.iml" />
+    </modules>
+  </component>
+</project>
